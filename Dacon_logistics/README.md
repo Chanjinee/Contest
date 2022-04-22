@@ -8,6 +8,8 @@ https://dacon.io/competitions/official/235867/overview/description
 - 주최 및 주관 : 국토도시 빅데이터 윈터스쿨 | 국토연구원 | 운송량 예측 | Dacon
 - 분석도구 : python
 
+  - 결론: Private에서 8위라는 성적을 기록하였으나, Data leakage
+  - 의도치 않은 leakage / Data leakage에 대한 추가적인 정리 필요
 -----------------------------------------------------------------------------------------
 
 ## 1. 배경
@@ -25,5 +27,3 @@ https://dacon.io/competitions/official/235867/overview/description
 ## 3. 분석 데이터
 
 - 송하인_격자공간고유번호, 수하인 격자공간고유번호, 택배_카테고리, 운송장_건수
-
-* ㅁㅇ *
