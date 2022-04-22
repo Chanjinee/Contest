@@ -25,3 +25,5 @@ https://dacon.io/competitions/official/235867/overview/description
 ## 3. 분석 데이터
 
 - 송하인_격자공간고유번호, 수하인 격자공간고유번호, 택배_카테고리, 운송장_건수
+
+* ㅁㅇ *
