@@ -11,6 +11,9 @@
 - 주제: 유형별 임대 주택 설계 시 단지 내 적정 주차 수요 예측
 - 대회 링크: https://dacon.io/competitions/official/235745/overview/description
 
+## [Dacon_logistics]
+- 주제: 물류유통량 예측 경진대회
+- 대회 링크: https://dacon.io/competitions/official/235867/overview/description
 
 ## [KMU_DnA-2021-daplatformers-master]
 - 주제: 고객정보, 매니저정보, 서비스 요구사항 데이터를 통한 매니저 매칭 성공여부 예측
