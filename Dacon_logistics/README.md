@@ -1,4 +1,4 @@
-# 데이콘 물류 유통량예측  
+# 데이콘 물류 유통량예측  -> (수정중)
 https://dacon.io/competitions/official/235867/overview/description
 
 ## 주제 : 물류 유통량예측
