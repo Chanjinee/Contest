@@ -22,3 +22,8 @@
   -> 순위: 3등
 - 주제: 고객정보, 매니저정보, 서비스 요구사항 데이터를 통한 매니저 매칭 성공여부 예측
 - 대회 링크: https://www.kaggle.com/c/2021-daplatformers-final-round/leaderboard
+
+## [Lotte-Members-Competition] 
+  -> 순위: 6등 ( 장려상 )
+- 주제: 고객구매 데이터에 기반한 예측 모델 개발 및 개인화 마케팅 전략 제안
+- 대회 링크: https://github.com/Chanjinee/Contest/tree/main/Lotte-Members-Competition
